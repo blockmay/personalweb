@@ -1,0 +1,31 @@
+.ssec{
+    width: 100%;
+    overflow: hidden;
+    margin-top: 50px;
+}
+.ssec .ssx{
+    float: left;
+    margin: 30px;
+}
+.ssec .ssx p{
+    font-size:25px;
+    line-height: 1.5em;
+    font-family: fantasy;
+    text-align: center;
+}
+.bss{
+    font-weight: bold;
+    font-size: 35px;
+    font-family: cursive;
+    margin-top: 40px;
+}
+.sso ul{
+    list-style: square;
+    margin-left: 30px;
+    margin-top: 20px;
+}
+.sso ul li{
+    font-size: 20px;
+    line-height: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,21 @@
+.enjoy-sec01{
+    margin-top: 50px;
+}
+.emp01{
+    margin-top: 30px;
+    margin-bottom: 40px;
+    font-size: 19px;
+    font-family: cursive;
+    line-height: 1.5em;
+}
+.enjoy-table01 table{
+    border-collapse: collapse;
+    border: transparent;
+    border-spacing: 10px;
+}
+.enjoy-table01 table .etp01{
+    margin: auto 20px;
+    font-size: 18px;
+    line-height: 1.5em;
+    font-family: monospace;
+}
